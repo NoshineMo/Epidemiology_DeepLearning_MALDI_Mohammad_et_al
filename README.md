@@ -9,9 +9,9 @@ This repository contains the code and resources for the article "Exploring Deep 
 This repository contains the following files, which are essential for training and evaluating various neural network architectures. Each file plays a specific role in the pipeline, from data loading to model definition and performance evaluation.
 
 **Pipeline Notebooks:**
-1. **pipeline_notebook_1**
-2. **pipeline_notebook_2**
-3. **pipeline_notebook_3**
+1. **`pipeline_notebook_1.ipynb`**
+2. **`pipeline_notebook_2.ipynb`**
+3. **`pipeline_notebook_3.ipynb`**
 
 These notebooks serve as the main orchestrator for training and evaluating different neural network architectures, including:
 - **Convolutional Neural Networks (CNNs)**
