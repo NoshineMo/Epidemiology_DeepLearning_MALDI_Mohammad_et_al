@@ -1,6 +1,8 @@
 # Epidemiology_DeepLearning_MALDI_Mohammad_et_al
 🚧👷🏽‍♀️Repository in progress🛠️🚜  
-This repository contains the code and resources for the article "Exploring Deep Learning Models for Analyzing MALDI-TOF Spectra for Infectious Disease Epidemiology" by Mohammad et al. (currently being submitted). The project focuses on leveraging all deep learning techniques tested to analyze MALDI-TOF mass spectrometry data, aiming to enhance the understanding and monitoring of infectious diseases.
+This repository contains the code and resources for the article "Neural Networks for Mass Spectrometry: Systematic Evaluation of Spectral Representations and Architectures for Clinical and Epidemiological Diagnostics" by Mohammad et al. (currently being submitted). The project focuses on leveraging all deep learning techniques tested to analyze MALDI-TOF mass spectrometry data, aiming to enhance the understanding and monitoring of infectious diseases.
+
+For any questions or further information, please feel free to contact me: noshine.mohammad@gmail.com
 
 ![Alt text](images/graphical_abstract_article.png)
 
