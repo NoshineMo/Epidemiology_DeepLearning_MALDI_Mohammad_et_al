@@ -27,22 +27,22 @@ These notebooks serve as the main orchestrator for training and evaluating diffe
 
 ### Associated Modules:
 
-libraries_utils.py – Loads all required libraries for model training and evaluation.  
-code_methodo.py – Defines architectures for CNN, TCN, RNN-BiGRU, and ESN, along with utilities for training neural networks.  
-code_methodo_2.py – Defines architectures for 2DCNN spectrogram, 2DCNN BiGRU - Hybrid spectrogram, 2DCNN scalogram, 2DCNN BiGRU - Hybrid scalogram, fcDAE, and DCAE, along with additional utilities for neural network training.  
-data_loader.py – Handles the data loading process and preprocessing steps.  
-functions_utils_for_nn.py – Implements training loops and inference functions.  
-bootstrap_performances.py, regression_roc_auc.py, code_show_result.py – Computes evaluation metrics for performance analysis and result visualization.  
+`libraries_utils.py` – Loads all required libraries for model training and evaluation.  
+`code_methodo.py` – Defines architectures for CNN, TCN, RNN-BiGRU, and ESN, along with utilities for training neural networks.  
+`code_methodo_2.py` – Defines architectures for 2DCNN spectrogram, 2DCNN BiGRU - Hybrid spectrogram, 2DCNN scalogram, 2DCNN BiGRU - Hybrid scalogram, fcDAE, and DCAE, along with additional utilities for neural network training.  
+`data_loader.py` – Handles the data loading process and preprocessing steps.  
+`functions_utils_for_nn.py` – Implements training loops and inference functions.  
+`bootstrap_performances.py`, `regression_roc_auc.py`, `code_show_result.py` – Computes evaluation metrics for performance analysis and result visualization.  
 
 Each file is designed to be modular, making it easier to adapt and experiment with different network architectures and datasets.  
 
 ## Contents:
 
-- Data preprocessing scripts
 - Deep learning model implementations
 - Training and evaluation workflows
-- Example datasets
 - Documentation and usage instructions
+- Data preprocessing scripts (available upon request)
+- Example datasets (available upon request)
 
 ## Goals:
 
